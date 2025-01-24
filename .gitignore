@@ -4,7 +4,7 @@
 # JSON files
 *.json
 
-# JSB Notes directory
+.idea/
 .jsb-notes/
 
 # Python
