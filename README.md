@@ -31,7 +31,7 @@ This project provides tools to extract metadata and transcripts from YouTube pla
 └── requirements.txt
 ```
 
----
+_The scripts will create the exports directory and subdirectories when run the first time_
 
 ## Prerequisites
 
